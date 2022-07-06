@@ -6,7 +6,7 @@ const port = process.env.PORT || 5000;
 
 
 // Connection URL
-const url = 'mongodb+srv://safra:safra2711@cluster0.7ocaq6r.mongodb.net/?retryWrites=true&w=majority';
+const url = 'mongodb+srv://icha:icha1234@cluster0.eff2b.mongodb.net/?retryWrites=true&w=majority';
 const client = new MongoClient(url);
 
 // Database Name
